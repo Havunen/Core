@@ -7,7 +7,8 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<PackageId>Castle.Core</PackageId>
+		<PackageId>Castle.Core.Net6</PackageId>
+		<PackageVersion>4.5.0</PackageVersion>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<PackageOutputPath>../../build/</PackageOutputPath>
 		<AssemblyName>Castle.Core</AssemblyName>

@@ -1,5 +1,7 @@
 # Castle Core Changelog
 
+FORK OF CASTLE.CORE TO SUPPORT ONLY .NET5 and .NET6 TO REMOVE DEPENDENCIES TO OLD ASSEMBLIES
+
 ## Unreleased
 
 Enhancements:
