@@ -39,10 +39,6 @@
 		<Content Include="..\..\buildscripts\readme.txt" />
 	</ItemGroup>
 
-	<ItemGroup>
-		<PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.0" PrivateAssets="All" />
-	</ItemGroup>
-
 	<PropertyGroup>
 		<DiagnosticsConstants>DEBUG</DiagnosticsConstants>
 		<NetStandard20Constants>TRACE</NetStandard20Constants>
